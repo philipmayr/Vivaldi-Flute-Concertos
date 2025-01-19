@@ -1,4 +1,4 @@
-Sheet music engraved with LilyPond and Denemo using Bravura music font
+Sheet music engraved with LilyPond and Denemo using Bravura font
 
 https://lilypond.org/
 
